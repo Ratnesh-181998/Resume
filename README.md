@@ -12,8 +12,8 @@ Some of my skills :
 
 •Data Structure  and Algorithm 
 •Programming Languages: Python, SQL, PySpark, Linux Shell Scripting 
-• Big Data & Streaming: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,   Databricks,BigQuery 
-• Data Analysis & Visualization: NumPy, Pandas, Matplotlib, SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
+• Big Data & Streaming: Apache Hadoop,Apache Spark, Apache Hive,Apache Airflow,Confluent Kafka,Databricks,BigQuery 
+• Data Analysis & Visualization: NumPy, Pandas, Matplotlib,SciPy, Seaborn, Plotly, Excel,Tableau,PowerBI,QlikSense 
 • Probability ,Statistics & Experimentation: ANOVA, Hypothesis Testing, A/B Testing 
 • Databases: MySQL, PostgreSQL, MongoDB, Cassandra 
 • Machine Learning & AI Models: Supervised Learning (Linear Regression,Logistic Regression,DecisionTree,Random Forest,SVM,Naive Bayes,k-NN,Gradient Boosting Machines,XGBoost,LightGBM),
