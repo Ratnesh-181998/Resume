@@ -27,6 +27,6 @@ Some of my skills :
 CloudFormation,Cognito,Guardrails,OpenSearch
 • MLOps: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
 • Model Deployment & Monitoring: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
-• Integration & API: RESTful APIs using FastAPI and FlaskAPI. 
+• Integration & API: Developed and integrated RESTful APIs using FastAPI and FlaskAPI. 
 
 
