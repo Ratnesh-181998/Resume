@@ -76,7 +76,7 @@ Technical Social Profiles
 
 10.	HackerEarth - https://www.hackerearth.com/@ratnesh138/
 
-11.	GeeksforGeeks - https://www.geeksforgeeks.org/user/ratnesh1998/
+11.	GeeksforGeeks - https://www.geeksforgeeks.org/profile/ratnesh1998
 
 12.	CodeChef- https://www.codechef.com/users/ratnesh_181998
 
