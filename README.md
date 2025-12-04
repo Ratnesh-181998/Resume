@@ -61,32 +61,34 @@ Technical Social Profiles
 1.	LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
 
 2.	Github- https://github.com/Ratnesh-181998
+   
+4.	Streamlit - https://share.streamlit.io/user/ratnesh-181998
 
-3.	Scaler- https://www.scaler.com/academy/profile/16d9756ebf65/
+5.	Scaler- https://www.scaler.com/academy/profile/16d9756ebf65/
 
-4.	Woolf University- https://woolf.university/id/3625948911
+6.	Woolf University- https://woolf.university/id/3625948911
 
-5.	InterviewsBit- https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/
+7.	InterviewsBit- https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/
 
-6.	Leetcode - https://leetcode.com/u/Ratnesh_1998/
+8.	Leetcode - https://leetcode.com/u/Ratnesh_1998/
 
-7.	HackerRank - https://www.hackerrank.com/profile/rattudacsit20211
+9.	HackerRank - https://www.hackerrank.com/profile/rattudacsit20211
 
-8.	HackerEarth - https://www.hackerearth.com/@ratnesh138/
+10.	HackerEarth - https://www.hackerearth.com/@ratnesh138/
 
-9.	GeeksforGeeks - https://www.geeksforgeeks.org/user/ratnesh1998/
+11.	GeeksforGeeks - https://www.geeksforgeeks.org/user/ratnesh1998/
 
-10.	CodeChef- https://www.codechef.com/users/ratnesh_181998
+12.	CodeChef- https://www.codechef.com/users/ratnesh_181998
 
-11.	CodeForces - https://codeforces.com/profile/Ratnesh_181998
+13.	CodeForces - https://codeforces.com/profile/Ratnesh_181998
 
-12.	Kaggle- https://www.kaggle.com/rattuda
+14.	Kaggle- https://www.kaggle.com/rattuda
 
-13.	Medium - https://medium.com/@rattudacsit2021gate
-
-14. Streamlit - https://share.streamlit.io/user/ratnesh-181998
-15. Render (Backend API ) : https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g
-16. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
+15.	Medium - https://medium.com/@rattudacsit2021gate
+    
+16. Render (Backend API ) : https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g
+    
+18. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
 
 
 ############## Streamlit APP ################
