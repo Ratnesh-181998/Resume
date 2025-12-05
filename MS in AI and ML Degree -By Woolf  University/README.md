@@ -25,7 +25,21 @@
 - The core courses are followed by specialization courses that teach various aspects of building real-world systems. This is followed by more advanced courses that focus on research-level topics, which cover state-of-the-art methods. The program also has a capstone project at the end, wherein students can either work on building end-to-end solutions to real-world problems (or) work on a research topic. The program also focuses on teaching the students the “ability to learn” so that they can be lifelong learners constantly upgrading their skills. Students can choose from a spectrum of courses to specialize in a specific sub-area of Computer Science like Artificial Intelligence and Machine Learning, Cloud and Full Stack Development, etc.
 
 ---
-
+***OFFICIAL DOCUMENT 3625472073 Student Academic Record***
+---
+- Master of Science in Computer Science: Artificial Intelligence and Machine Learning
+- Full name: Ratnesh Kumar
+- Nationality: India
+- Student ID: 3625948911
+- Degree name: Master of Science in Computer Science: Artificial Intelligence and Machine Learning
+- Degree accreditation level: ECTS Accredited (EQF7)
+- Degree completion status: Completed
+- Date of award: 04 July 2024
+- Official accreditation information: Degree listing on MFHEA website in Europe : https://qualifications.mfhea.gov.mt/#/qualifications?awardingBody=MFHEA-ORG-048&search=true
+- Average (percent): 99%
+- Cumulative GPA: 4
+  
+---
 
 ***MS in AI and ML Degree -By Woolf University Transcript Ratnesh Kumar***
 
