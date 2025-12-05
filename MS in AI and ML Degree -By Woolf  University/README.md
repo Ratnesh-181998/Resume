@@ -25,3 +25,28 @@
 - The core courses are followed by specialization courses that teach various aspects of building real-world systems. This is followed by more advanced courses that focus on research-level topics, which cover state-of-the-art methods. The program also has a capstone project at the end, wherein students can either work on building end-to-end solutions to real-world problems (or) work on a research topic. The program also focuses on teaching the students the “ability to learn” so that they can be lifelong learners constantly upgrading their skills. Students can choose from a spectrum of courses to specialize in a specific sub-area of Computer Science like Artificial Intelligence and Machine Learning, Cloud and Full Stack Development, etc.
 
 ---
+
+***MS in AI and ML Degree -By Woolf University Transcript Ratnesh Kumar***
+---
+<img width="777" height="1114" alt="image" src="https://github.com/user-attachments/assets/a93f1419-fc63-4dff-b0d4-4357e4315d27" />
+<img width="783" height="1120" alt="image" src="https://github.com/user-attachments/assets/1d01bdf8-f7f0-4ad4-a10e-05f5541f1a63" />
+<img width="784" height="1115" alt="image" src="https://github.com/user-attachments/assets/17ed353e-7eca-425d-b53b-40fc68c71734" />
+<img width="772" height="1074" alt="image" src="https://github.com/user-attachments/assets/691478cb-69c0-48ca-b8ca-9c0083fa2092" />
+<img width="775" height="1114" alt="image" src="https://github.com/user-attachments/assets/77801a46-3fc0-47be-aa7a-2d82130747a7" />
+
+---
+
+***MS in AI and ML Degree -By Woolf University Certificate Ratnesh Kumar***
+---
+<img width="1492" height="1058" alt="image" src="https://github.com/user-attachments/assets/4f41acda-f4bd-4525-bf88-303dcfaf5826" />
+<img width="1493" height="1055" alt="image" src="https://github.com/user-attachments/assets/f62fe45c-9a68-43fb-934f-568040f28f45" />
+<img width="1501" height="1065" alt="image" src="https://github.com/user-attachments/assets/22a6789f-0f5d-43df-8af6-e5f3e8b0254e" />
+<img width="1485" height="1062" alt="image" src="https://github.com/user-attachments/assets/005ec41b-e80b-4980-8de5-6f3d0a87f3e1" />
+<img width="1494" height="1056" alt="image" src="https://github.com/user-attachments/assets/dcdefdc8-832b-4430-b757-a090eea024a4" />
+<img width="1496" height="1054" alt="image" src="https://github.com/user-attachments/assets/d6d93156-6004-4904-a408-33912bdd2f90" />
+
+---
+
+
+
+
