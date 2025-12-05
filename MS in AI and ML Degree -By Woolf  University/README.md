@@ -26,7 +26,9 @@
 
 ---
 
+
 ***MS in AI and ML Degree -By Woolf University Transcript Ratnesh Kumar***
+
 ---
 <img width="777" height="1114" alt="image" src="https://github.com/user-attachments/assets/a93f1419-fc63-4dff-b0d4-4357e4315d27" />
 <img width="783" height="1120" alt="image" src="https://github.com/user-attachments/assets/1d01bdf8-f7f0-4ad4-a10e-05f5541f1a63" />
@@ -36,7 +38,9 @@
 
 ---
 
+
 ***MS in AI and ML Degree -By Woolf University Certificate Ratnesh Kumar***
+
 ---
 <img width="1492" height="1058" alt="image" src="https://github.com/user-attachments/assets/4f41acda-f4bd-4525-bf88-303dcfaf5826" />
 <img width="1493" height="1055" alt="image" src="https://github.com/user-attachments/assets/f62fe45c-9a68-43fb-934f-568040f28f45" />
