@@ -7,7 +7,7 @@
 
 - **Regulatory and Licensing Office**: Malta
 - **Registrar's Office**: Täfernstrasse 16, 5405 Baden-Dättwil, Switzerland
-- **Global Presence)**: Operates with physical "Woolf Centres" which are part of its global campus network.
+- **Global Presence**: Operates with physical "Woolf Centres" which are part of its global campus network.
 - **Accreditation**: It is accredited by the Malta Further and Higher Education Authority (MFHEA).
 - **LinkedIn** : https://www.linkedin.com/school/woolfuniversity/posts/?feedView=all
 - **X Platefrom** : https://x.com/woolfuniversity
