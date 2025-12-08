@@ -92,6 +92,9 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
     
 18. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
 
+19. https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
+
+
 ---
 
 ***Streamlit APP***
@@ -101,33 +104,39 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 Ratnesh Streamlit Profile - https://share.streamlit.io/user/ratnesh-181998
 
 
-1. https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/
+1. https://agentic-ai-trip-planner-crewai-ykagvec2ng6raotrdaw6sp.streamlit.app/
+   
+2. https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/
 
-2. https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/
+3. https://flipitnews-nlp-classifier-md5fomvan7qnwpq7keylem.streamlit.app/
 
-3. https://twitter-ner-system-ab12c.streamlit.app/
+4. https://twitter-ner-system-ab12c.streamlit.app/
 
-4. https://adease-time-series-analysis-drkta7i8zeotm6ayyasjj8.streamlit.app/
+5. https://adease-time-series-analysis-drkta7i8zeotm6ayyasjj8.streamlit.app/
 
-5. https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/
+6. https://edtech-learner-clustering-analysis-q7cozhkz4zafdrwwul9mpv.streamlit.app/
 
-6.  https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/
+7.  https://loantap-credit-risk-analysis-bg4puocgrxddcwfx3pg5bu.streamlit.app/
 
-7. https://delhivery-logistics-analysis-dashboard-bp5ruz5asyrx4yc67j5h4i.streamlit.app/
+8. https://delhivery-logistics-analysis-dashboard-bp5ruz5asyrx4yc67j5h4i.streamlit.app/
 
-8.  https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/
+9.  https://jamboree-graduate-admission-predictor-4yuy3yewzwvlswr2zthnr7.streamlit.app/
 
-9. https://yulu-bike-sharing-demand-analytics-hpxhkpd9ilirthx2frxya6.streamlit.app/
+10. https://yulu-bike-sharing-demand-analytics-hpxhkpd9ilirthx2frxya6.streamlit.app/
 
-10. https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/
+11. https://aerofit-customer-intelligence-dashboard-cmwtx6jamu8lqfvfahzcqt.streamlit.app/
 
-11. https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/
+12. https://walmart-black-friday-sales-analysis-3hrmdpouwmapvucuwcg8r7.streamlit.app/
 
-12. https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/
+13. https://ola-driver-churn-prediction-machine-learning-mmntzrjjgxbadbxd4.streamlit.app/
 
-13. https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/
+14. https://netflix-content-strategy-dashboard-nupabwa9bcadg5idqwngek.streamlit.app/
 
-14. https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
+15. https://target-brazil-e-commerce-analytics-pcgvrrnvxwbsfsy5pq9kez.streamlit.app/
+    
+16. https://realtime-telecom-data-pipeline-kafka-rqf9q28jaxeq56hflarcch.streamlit.app/
+
+
 
 ---
    
