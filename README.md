@@ -92,7 +92,7 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
     
 18. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
 
-19. https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
+19. Supabase Cloud : https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
 
 
 ---
