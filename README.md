@@ -61,39 +61,24 @@ LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-A
 **Technical Social Profiles**:
 ---
 1.	LinkedIn - https://www.linkedin.com/in/ratneshkumar1998/
-
-2.	Github- https://github.com/Ratnesh-181998
-   
+2.	Github- https://github.com/Ratnesh-181998   
 4.	Streamlit - https://share.streamlit.io/user/ratnesh-181998
-
 5.	Scaler- https://www.scaler.com/academy/profile/16d9756ebf65/
-
 6.	Woolf University- https://woolf.university/id/3625948911
-
 7.	InterviewsBit- https://www.interviewbit.com/profile/rattudacsit2021gate_d9a25bc44230/
-
 8.	Leetcode - https://leetcode.com/u/Ratnesh_1998/
-
 9.	HackerRank - https://www.hackerrank.com/profile/rattudacsit20211
-
 10.	HackerEarth - https://www.hackerearth.com/@ratnesh138/
-
 11.	GeeksforGeeks - https://www.geeksforgeeks.org/profile/ratnesh1998
-
 12.	CodeChef- https://www.codechef.com/users/ratnesh_181998
-
 13.	CodeForces - https://codeforces.com/profile/Ratnesh_181998
-
 14.	Kaggle- https://www.kaggle.com/rattuda
-
 15.	Medium - https://medium.com/@rattudacsit2021gate
 16.	Stackoverflow - https://stackoverflow.com/users/32068937/ratnesh-kumar?tab=profile
 17.	HuggingFace - https://huggingface.co/RattuDa98   
 18. Render (Backend API ) : https://dashboard.render.com/project/prj-d4kore8gjchc73aall0g  
 19. Vercel (Fornted ) : https://vercel.com/ratnesh-kumars-projects-ad9ae7f2/ai-powered-full-stack-news-classifier/71P83jCpUxygyET7xFCzAMN6UYcc
-
 20. Supabase Cloud : https://supabase.com/docs/guides/database/connecting-to-postgres#connection-pooler
-
 
 ---
 
