@@ -52,7 +52,7 @@ bit), OpenAI GPT Models, Hugging Face Ecosystem, Groq API, Vertex AI, Ollama, Ll
 LangSmith, LangChain Tools & Capabilities (Tool Calling, Memory Systems, Multi-Agent Workflows, Agent Orchestration, FastAPI Integrations) 
 - AWS Services: S3, EMR, Lambda, DynamoDB, EC2, CloudWatch, IAM, Bedrock, Kendra,ECS,SageMaker,Redshift,Glue,ATHENA,SNS,SQS,QuickSight,CloudWatch,
   API Gateway,CloudFormation,Cognito,Guardrails,OpenSearch
-- **MLOps**: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
+- **MLOps, LLMOps & AIOps**: AWS Ecosystem,MLFlow ,Docker & DockerHub, Jenkins, Git/GitHub, GitLab, CI/CD, Streamlit, Pytest, Jira 
 - **Model Deployment & Monitoring**: Pipeline Deployment, End-to-End ML Systems, Evidently AI 
 - **Integration & API**: Developed and integrated RESTful APIs using FastAPI and FlaskAPI.
   
